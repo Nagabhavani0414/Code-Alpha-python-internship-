@@ -1,0 +1,26 @@
+# Stock Portfolio Tracker
+
+A simple Python application that tracks stock investments and calculates the total portfolio value.
+
+## Features
+- Store stock names and quantities
+- Calculate investment value
+- Display portfolio summary
+- Save results to a text file
+
+## Technologies Used
+- Python
+
+## How to Run
+
+1. Open terminal.
+2. Navigate to project folder.
+3. Run:
+
+python stock_portfolio_tracker.py
+
+## Output
+Displays portfolio details and saves them to a text file.
+
+## Author
+Bhavani
