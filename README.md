@@ -1,22 +1,22 @@
-# Basic Chatbot
+# Hangman Game
 
-## Description
-This is a simple rule-based chatbot developed in Python. It responds to predefined user inputs and demonstrates the use of loops, conditional statements, and user interaction.
+A simple Python console-based Hangman game created for the CodeAlpha Python Programming Internship.
 
 ## Features
-- Greets users
-- Answers basic questions
-- Provides help information
-- Exits when the user types "bye"
+- Random word selection
+- Limited attempts
+- Win/Lose conditions
+- User-friendly interface
 
 ## Technologies Used
-- Python 3
+- Python
 
 ## How to Run
-1. Save the code as `chatbot.py`
-2. Open Terminal/Command Prompt
+1. Open terminal.
+2. Navigate to project folder.
 3. Run:
-   python chatbot.py
+
+python hangman.py
 
 ## Author
-BHAVANI
+Bhavani
